@@ -896,4 +896,51 @@ ul {
             margin-left: -26px;
         }
     }
+
+    @media (max-width:418px){
+
+        .projetos{
+            height: 890px;
+        }
+
+        .conhecimentos-titulo{
+            margin-left: -34px;
+        }
+
+        .tecno-eventeen {
+            margin-left: -15px;
+        }
+
+
+        .projeto-geral{
+            margin-left: -110px;
+        }
+
+        .b1 {
+            width: 340px;
+        }
+
+        .b2 {
+            width: 310px;
+        }
+
+        .b3 {
+            width: 305px;
+        }
+
+        .b5 {
+            width: 300px;
+        }
+    }
+
+    @media (max-width:410px){
+        .conhecimentos-titulo{
+            font-size: 50px;
+            margin-left: -20px;
+        }
+        .conteudo-principal-imagem-sobre {
+            width: 350px;
+        }
+    }
+
 }
