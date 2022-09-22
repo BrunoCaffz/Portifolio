@@ -760,7 +760,7 @@ ul {
     }
 
     .image-overlay {
-        left: 70px;
+        display: none;
     }
 }
 
@@ -972,15 +972,9 @@ ul {
             font-size: 50px;
             margin-right: -35px;
         }
-        
-        .image-overlay{
-            display: none;
-        }    
-        
     }
     
-    @media (max-width:366px){
-        
+    @media (max-width:366px){    
         .conteudo-principal{
         height: 300px;            
         }
@@ -1000,8 +994,5 @@ ul {
         .Text-sobre-sub {
         font-size: 15px;
         }
-
     }
-    
-    
 }
