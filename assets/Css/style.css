@@ -969,6 +969,30 @@ ul {
         }
     }
 
+    @media (max-width: 379px){
+        
+        .icons{
+            height: 0vh;
+        }
+        
+        .conteudo-principal-escrito {
+            margin-left: -40px;
+        }
+        
+        .conhecimentos-titulo{
+            font-size: 50px;
+            margin-right: -30px;
+        }
+        
+        .image-overlay{
+            display: none;
+        }
+    
+    
+    
+    
+    }
+    
     @media (max-width:366px){
         
         .conteudo-principal{
