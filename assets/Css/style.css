@@ -951,6 +951,10 @@ ul {
         .conteudo-principal-imagem-sobre {
             width: 350px;
         }
+        
+        .background-color-conhecimentos {
+            height: 590px;
+        }
     }
 
     @media (max-width: 379px){
