@@ -724,7 +724,7 @@ ul {
 
     .projetos-titulo{
         text-align: center;
-        margin-left: 14px;
+        margin-left: -10px;
     }
 
     .projetos {
@@ -916,25 +916,17 @@ ul {
         }
         
         .tecno-eventeen{
-          font-size: 12px;
-          margin-left: 50px;
+          font-size: 12px;   
         }
     }
 
     @media (max-width:418px){
-
         .projetos{
             height: 890px;
         }
 
         .conhecimentos-titulo{
             margin-left: -34px;
-        }
-
-        
-
-        .projeto-geral{
-            margin-left: -110px;
         }
 
         .b1 {
@@ -955,11 +947,9 @@ ul {
     }
     
     @media (max-width:410px){
-        
         .conhecimentos-titulo{
             font-size: 55px;
         }
-        
     }
 
     @media (max-width:410px){
@@ -970,7 +960,6 @@ ul {
     }
 
     @media (max-width: 379px){
-        
         .icons{
             height: 0vh;
         }
@@ -981,16 +970,13 @@ ul {
         
         .conhecimentos-titulo{
             font-size: 50px;
-            margin-right: -30px;
+            margin-right: -35px;
         }
         
         .image-overlay{
             display: none;
-        }
-    
-    
-    
-    
+        }    
+        
     }
     
     @media (max-width:366px){
@@ -1010,11 +996,12 @@ ul {
         .conteudo-principal-imagem-sobre {
         width: 250px;
         }
-
-        .conteudo-principal-escrito {
-        margin-left: -110px;
+        
+        .Text-sobre-sub {
+        font-size: 15px;
         }
 
     }
+    
     
 }
